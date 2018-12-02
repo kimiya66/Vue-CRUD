@@ -1,6 +1,4 @@
-# vuejs-product-app
 
-> A Vue.js simple product app with firestore
 
 ## Build Setup
 
