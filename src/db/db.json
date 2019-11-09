@@ -1,0 +1,59 @@
+{
+    "prods": [
+    {
+        "id": "1",
+        "name": "CD",
+        "price": "25"
+    },
+    {
+        "id": "2",
+        "name": "External-Hard",
+        "price": "1000"
+    },
+    {
+        "id": "3",
+        "name": "Printer",
+        "price": "450"
+    },
+    {
+        "id": "4",
+        "name": "Laptop-lenovo",
+        "price": "2300"
+    },
+    {
+        "id": "5",
+        "name": "PC-HP",
+        "price": "2000"
+    },
+    {
+        "id": "6",
+        "name": "MacBook",
+        "price": "5000"
+    },
+    {
+        "id": "6",
+        "name": "LenovoV130",
+        "price": "900"
+    },
+    {
+        "id": "7",
+        "name": "Lenovo-IdeaPad",
+        "price": "800"
+    },
+    {
+        "id": "8",
+        "name": "MacBook-air",
+        "price": "3400"
+    },
+    {
+        "id": "9",
+        "name": "keyboard10",
+        "price": "200"
+    },
+    {
+        "id": "10",
+        "name": "Mouse",
+        "price": "30"
+    }
+  ]
+}
